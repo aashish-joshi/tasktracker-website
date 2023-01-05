@@ -1,0 +1,19 @@
+.App-header {
+    text-align: left;
+    margin-left: 5vw;
+    margin-top: 3vh;
+    font-size: calc(10px + 2vmin);
+    text-decoration: none;
+  }
+
+.header-link {
+  text-decoration: none;
+  color: #000;
+}
+
+
+.header-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  color: #333;
+}
